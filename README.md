@@ -7,5 +7,5 @@ This project is to automate the process of satellite images acquisition for eart
 2. Explore Google Earth Engine’s (GEE) vast satellite archive to query and identify most recent imageries over the disaster location.  
 3. Utilize Python and related geospatial packages to create a workflow - linking the USGS API with GEE API - that is automated, scable, and accurate.
 
-Functioning codes are contained in: Post_Earthquake_Satellite_Autotasking.ipynb
+Functioning codes are contained in: Post_Earthquake_Satellite_Autotasking.ipynb (3rd item in above list) 
  
