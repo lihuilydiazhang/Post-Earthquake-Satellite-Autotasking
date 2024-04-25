@@ -1,6 +1,6 @@
 # Post-Earthquake-Satellite-Autotasking
 
-## Why this project?
+## What is this project?
 Imagine your work involves locating the most recent natural disasters, along with their detailed coordinates, to acquire before and after satellite imagery for disaster relief efforts.
 
 The most time-consuming part of this task is finding the exact coordinates of the disaster-struck locations. Typically, this involves manual browsing of newspapers, refreshing social media feeds, and contacting local sources.
